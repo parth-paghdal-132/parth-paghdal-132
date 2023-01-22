@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hello There 👋
+# I am Parth Paghdal
 
-<!--
-**parth-paghdal-132/parth-paghdal-132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About 🌎
+- I am graduate student at Stevens Institute of Technology
+- I am interested to provide solution for large as well as small problem.
 
-Here are some ideas to get you started:
+## Work ✨
+- Course Assitant for CS-522 Mobile Systems and Application
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Motivation 💪
+-  I find inspiration in creative endeavors, collaboration with others, and seeing the tangible results of my work
+- I am motivated by the satisfaction of overcoming challenges.
+
+## Interests 🧩
+- Kotlin
+- Android
+- Node.JS
+- React
+- Java
+- Python
+- HTML
+- PHP
+- Agile
+- DevOps
+
+## Ask me about 🙋‍♂️
+- Android Development
+- Web Development
+- Software Development
+- UX/UI
+
+## Get in touch
+- E-mail: parthpaghadal123@gmail.com
+
+## Fun facts
+- I like web scrapping
+- I love to watch tech videos 
+- I like running 
