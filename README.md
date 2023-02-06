@@ -21,6 +21,7 @@
 - Python
 - HTML
 - PHP
+- Backend
 - Agile
 - DevOps
 
@@ -31,7 +32,8 @@
 - UX/UI
 
 ## Get in touch
-- E-mail: parthpaghadal123@gmail.com
+- E-mail: ppaghdal@stevens.edu
+- LinkedIn: https://www.linkedin.com/in/parth-paghadal-608b83134/
 
 ## Fun facts
 - I like web scrapping
