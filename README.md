@@ -6,7 +6,7 @@
 - I am interested to provide solution for large as well as small problem.
 
 ## Work ✨
-- Course Assitant for CS-522 Mobile Systems and Application
+- Course Assistant for CS-522 Mobile Systems and Application
 
 ## Motivation 💪
 -  I find inspiration in creative endeavors, collaboration with others, and seeing the tangible results of my work
